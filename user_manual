@@ -1,0 +1,11 @@
+To run CarbonLite, execute the following steps.
+
+1) Open VSCode
+2) Open two terminals
+3) enter "cd Backend" in the first one
+4) enter "cd frontend" in the other
+5) in the backend terminal run, "npm install express mongoose dotenv"
+6) then run "node server.js"
+7) in the frontend terminal, run "npm start"
+
+*if you dont't have node.js installed or are having trouble installing it, follow the instructions in this url: https://nodejs.org/en/download*
